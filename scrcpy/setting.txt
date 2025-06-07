@@ -1,0 +1,7 @@
+scrcpy -m 1600 -b 8M --max-fps 60 --render-driver=opengl --no-mipmaps
+
+scrcpy -m 1600 -b 6M --max-fps 60 --render-driver=opengl --no-mipmaps
+
+scrcpy -m 1600 -b 8M --max-fps 60 --render-driver=opengl --no-mipmaps --print-fps
+
+scrcpy -m 1600 -b 8M --max-fps 60 --render-driver=opengl
